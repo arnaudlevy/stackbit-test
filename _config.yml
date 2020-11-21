@@ -11,7 +11,7 @@ header:
   type: header
   title: DIY
   logo: images/classic/logo.svg
-  has_primary_nav: false
+  has_primary_nav: true
   primary_nav_links:
     - type: action
       label: Features
