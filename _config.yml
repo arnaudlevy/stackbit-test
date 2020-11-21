@@ -22,7 +22,7 @@ header:
       url: /pricing
       style: link
     - type: action
-      label: About
+      label: A propos
       url: /about
       style: link
     - type: action
